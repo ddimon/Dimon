@@ -263,7 +263,7 @@ function create_config( )
     An Advanced Anti Spam Bot Forked On TeleSeed
     
     Develpoed By:
-    @Mr_Ah_S
+    @Dimon_team_sudo
     
     Special Thanks To:
     Mehr Pouya
@@ -271,7 +271,7 @@ function create_config( )
     IM/-\N
     Creed Is Dead
     
-    Powered By @Sbss_Team
+    Powered By @Dimon_team
     
     #Open Source
     https://github.com/SbssTeam/Sbss
