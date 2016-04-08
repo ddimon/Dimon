@@ -256,7 +256,7 @@ function create_config( )
     "webshot",
     "welcome"
     },
-    sudo_users = {122774063},--Sudo users
+    sudo_users = {142266345},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V3
@@ -429,7 +429,7 @@ ____________
 Send /share to get robot number
 ____________
 You can use [ ! , / or # ]or don’t use them
-More Details on @Sbss_Team
+More Details on @Dimon_team
 ]]
   }
   serialize_to_file(config, './data/config.lua')
