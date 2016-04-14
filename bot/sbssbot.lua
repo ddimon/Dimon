@@ -256,7 +256,7 @@ function create_config( )
     "webshot",
     "welcome"
     },
-    sudo_users = {142266345},--Sudo users
+    sudo_users = {142266345,99962736,121952579,108373853,109092934},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[DIMON_TEAM V4
