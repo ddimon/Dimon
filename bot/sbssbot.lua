@@ -259,7 +259,7 @@ function create_config( )
     sudo_users = {142266345},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Sbss Bot V3
+    about_text = [[DIMON_TEAM V4
     An Advanced Anti Spam Bot Forked On TeleSeed
     
     Develpoed By:
@@ -274,7 +274,7 @@ function create_config( )
     Powered By @Dimon_team
     
     #Open Source
-    https://github.com/SbssTeam/Sbss
+    https://github.com/ddimon/dimon.git
 ]],
     help_text_realm = [[
 See Patterns In Github
