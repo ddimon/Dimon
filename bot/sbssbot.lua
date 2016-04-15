@@ -4,7 +4,7 @@ package.cpath = package.cpath .. ';.luarocks/lib/lua/5.2/?.so'
 
 require("./bot/utils")
 
-VERSION = '3'
+VERSION = '1'
 
 -- This function is called when tg receive a msg
 function on_msg_receive (msg)
@@ -256,11 +256,11 @@ function create_config( )
     "webshot",
     "welcome"
     },
-    sudo_users = {142266345,99962736,121952579,108373853,109092934},--Sudo users
+    sudo_users = {142266345},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[DIMON_TEAM V4
-    An Advanced Anti Spam Bot Forked On TeleSeed
+    about_text = [[DIMON_TEAM V1
+    An Advanced Anti Spam Bot Forked On DIMON TEAM
     
     Develpoed By:
     @Dimon_team_sudo
